@@ -1,4 +1,4 @@
-# Hola, soy Esteban Gutierrez 👋
+# Esteban Gutierrez · esteguri 🦒
 
 **Tech Lead & Solutions Architect | Ecosistema de Pagos & Fintech**
 
