@@ -1,8 +1,8 @@
-# Hola, soy Esteban Gutierrez Rivera 👋
+# Hola, soy Esteban Gutierrez 👋
 
 **Tech Lead & Solutions Architect | Ecosistema de Pagos & Fintech**
 
-👨‍💻 Lidero la arquitectura y el desarrollo de plataformas transaccionales de alta disponibilidad. [cite_start]Especializado en diseñar soluciones escalables y seguras para el sector financiero, enfocándome en integraciones bancarias, PayOuts y sistemas core.
+👨‍💻 Lidero la arquitectura y el desarrollo de plataformas transaccionales de alta disponibilidad. Especializado en diseñar soluciones escalables y seguras para el sector financiero, enfocándome en integraciones bancarias, PayOuts y sistemas core.
 
 📍 Medellín
 
